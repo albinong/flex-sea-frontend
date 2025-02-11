@@ -1,2 +1,2 @@
-# flex-sea-frontendd
+# flex-sea-frontend
 (opcional)
